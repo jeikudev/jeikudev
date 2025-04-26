@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jake</h1>
 <h3 align="center">A front-end wizard (not really) on a quest to master the dark arts of backend — and maybe slip into an alternate reality while they're at it.</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=jeikudev&label=Profile%20views&color=7c72b6&style=flat" alt="jeikudev" /> 
-</p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jeikudev&margin-w=15&margin-h=15" alt="jeikudev" />
-  </a> 
-</p>
-
 ---
 
 ### ⚡ Fun Fact 
@@ -44,8 +34,4 @@
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeikudev&layout=compact&theme=transparent&hide_border=true" />
 </p>
