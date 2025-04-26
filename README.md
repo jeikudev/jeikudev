@@ -48,11 +48,55 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=jeikudev&show_icons=true&theme=transparent&hide_border=true" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeikudev&theme=transparent&hide_border=true" />
+# GitHub Stats
+
+## Jeiku's GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeikudev&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=7c72b6&icon_color=7c72b6&text_color=ffffff&count_private=true" alt="GitHub Stats" />
 </p>
+
+- **✨ Total Stars Earned:** 4  
+- **💻 Total Commits (2025):** 17  
+- **🔀 Total PRs:** 8  
+- **🐛 Total Issues:** 1  
+- **🤝 Contributed to (last year):** 0  
+
+---
+
+### Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeikudev&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=7c72b6&text_color=ffffff" alt="Top Languages" />
+</p>
+
+- **TypeScript 49.88%**  
+- **JavaScript 4.78%**  
+- **HTML 35.92%**  
+- **CSS 2.65%**  
+- **Python 1.80%**
+
+---
+
+### Total Contributions
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeikudev&theme=dark&hide_border=true&background=00000000&stroke=7c72b6&ring=7c72b6&fire=7c72b6&currStreakLabel=ffffff" alt="Contribution Streak" />
+</p>
+
+|    | July 19, 2022 - Present |
+|---|---|
+| **🔥 Current Streak** | Apr 26 |
+
+---
+
+### Longest Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeikudev&theme=dark&hide_border=true&background=00000000&stroke=7c72b6&ring=7c72b6&fire=7c72b6&currStreakLabel=ffffff&mode=longest" alt="Longest Streak" />
+</p>
+
+**🏆 Longest Streak:** Mar 20 - Mar 27
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeikudev&layout=compact&theme=transparent&hide_border=true" />
