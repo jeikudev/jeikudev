@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jake</h1>
-<h3 align="center">I break code and guitar strings with equal enthusiasm</h3>
+<h3 align="center">A front-end wizard (not really) on a quest to master the dark arts of backend — and maybe slip into an alternate reality while they're at it.</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=jeikudev&label=Profile%20views&color=7c72b6&style=flat" alt="jeikudev" /> 
