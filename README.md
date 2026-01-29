@@ -11,7 +11,7 @@ Front-End Developer and UX/UI Designer with expertise in building responsive web
 - 🎨 **UX/UI Designer** at Raykan Technologies
 - 💼 Former **Computer Programmer/Graphic Designer** at City Government of Mandaue
 - 📱 Experienced in **React Native** mobile development
-- 🎸 Passionate about music and multimedia production
+- 🎸 Passionate about music and multimedia production.
 
 ---
 
